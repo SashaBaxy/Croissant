@@ -1,0 +1,16 @@
+body {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+img {
+    width: 25%;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: grey;
+    text-shadow: 2px 2px white;
+}
